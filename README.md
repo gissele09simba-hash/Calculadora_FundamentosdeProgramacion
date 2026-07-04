@@ -1,20 +1,16 @@
 # \# Calculadora - Fundamentos de Programación
 
-# 
-
 # \## Descripción
 
-# Este proyecto contiene una calculadora básica implementada en \*\*Java\*\* (con IntelliJ IDEA) y en \*\*Pseudocódigo\*\* (con PSeInt).  
+# Este proyecto contiene una calculadora básica implementada en Java (con IntelliJ IDEA) y en Pseudocódigo (con PSeInt).  
 
-# Permite realizar las operaciones de \*\*suma, resta, multiplicación y división\*\* mediante un menú interactivo.
-
-# 
+# Permite realizar las operaciones de suma, resta, multiplicación y división mediante un menú interactivo.
 
 # \## Autora
 
-# \- \*\*Nombre:\*\* Angie Simba
+# \- Nombre: Angie Simba
 
-# \- \*\*Materia:\*\* Fundamentos de Programación
+# \- Materia: Fundamentos de Programación
 
 # 
 
@@ -34,11 +30,10 @@
 
 # \## Herramientas usadas
 
-# \- \*\*IntelliJ IDEA\*\* (Java)
+# \- IntelliJ IDEA (Java)
 
-# \- \*\*PSeInt\*\* (Pseudocódigo)
+# \- PSeInt (Pseudocódigo)
 
-# 
 
 # \## Cómo ejecutar
 
